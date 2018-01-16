@@ -1,0 +1,55 @@
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://down.weapp.com/apps/zb/003/14/22/79/5a4aeb9f1a2ab4e161f05d58.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>
+</string>https://pbs.twimg.com/profile_images/935857016387629058/BEr-n5y__400x400.jpg</string>
+</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>
+</string>https://cdn2.iconfinder.com/data/icons/zeshio-s-social-media/200/Social_Media_Icons_Edged-10-512.png</string>
+</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.toyopagroup2.picaboo</string>
+<key>bundle-version</key>
+<string>10.23.7</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>scospoof نسخه مكرره 
+
+رفع: عاشق السيديا
+❤ 🔥🔥 ❤
+حسابي على تويتر👇
+	@cq0_tq
+التطبيق مجاني وليس لبيع (:</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
